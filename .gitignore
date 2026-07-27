@@ -1,0 +1,6 @@
+# never commit: credentials, local annotation data, or the analysis answer key
+credentials.json
+.streamlit/secrets.toml
+annotations_local.csv
+annotation_meta.json
+__pycache__/
