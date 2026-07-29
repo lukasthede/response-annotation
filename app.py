@@ -16,7 +16,7 @@ The app is fully data-driven: metrics, rubrics, questions, and per-annotator
 block assignments all come from annotation_data.json (produced by the sampling
 script). Adding metrics or changing tiers requires no code changes.
 
-Setup:
+Setup (mirrors the HealthEdit annotation app):
   1. Google service account credentials in credentials.json
      (or env var GOOGLE_CREDENTIALS_JSON — e.g. a HuggingFace Space secret).
   2. Set ANNOTATION_SHEET_ID env var (Google Sheet shared with the service account).
@@ -103,14 +103,21 @@ def _round_robin_by_condition(items: list, rng: random.Random) -> list:
 
 
 def _blocked_order(items: list, name: str) -> list:
-    """Group by task type (rubric read once per block), rotate the block order
-    per annotator, and interleave conditions within each block."""
+    """Serve in priority order (set by the sampling/patch script, lower first),
+    then group by task type so a rubric is read once per block, rotating the
+    block order per annotator, and interleave strata within each block."""
     rng = random.Random(_seed_of(name) % (2**32))
     rot = _seed_of(name) % len(TYPE_ORDER)
-    order = TYPE_ORDER[rot:] + TYPE_ORDER[:rot]
+    type_order = TYPE_ORDER[rot:] + TYPE_ORDER[:rot]
     out = []
-    for t in order:
-        out += _round_robin_by_condition([it for it in items if it["type"] == t], rng)
+    for prio in sorted({it.get("priority", 5) for it in items}):
+        tier = [it for it in items if it.get("priority", 5) == prio]
+        seen = set()
+        for t in type_order + sorted({i["type"] for i in tier}):
+            if t in seen:
+                continue
+            seen.add(t)
+            out += _round_robin_by_condition([it for it in tier if it["type"] == t], rng)
     return out
 
 
