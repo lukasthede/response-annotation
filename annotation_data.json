@@ -15506,7 +15506,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_efa2298ffa",
@@ -15578,7 +15578,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_4480418534",
@@ -15650,7 +15650,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_725c079115",
@@ -15722,7 +15722,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_84bcc03f30",
@@ -15794,7 +15794,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_dd408473f8",
@@ -15866,7 +15866,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_1a194c6d5a",
@@ -15938,7 +15938,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_8f0d5dd15a",
@@ -16010,7 +16010,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_6cbc344d9c",
@@ -16082,7 +16082,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_165ce9a28d",
@@ -16154,7 +16154,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_975cae79c3",
@@ -16230,7 +16230,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_cc3d97c1cd",
@@ -16306,7 +16306,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_b0fd12bcd9",
@@ -16378,7 +16378,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_3c74bde4b4",
@@ -16454,7 +16454,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_b6d5d92f88",
@@ -16530,7 +16530,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_c5d7f8117c",
@@ -16602,7 +16602,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_fee6dbd42f",
@@ -16674,7 +16674,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_1f85c68e91",
@@ -16746,7 +16746,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_f8aa8e0e8a",
@@ -16818,7 +16818,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   },
   {
    "id": "it_c1cbc2c0b7",
@@ -16890,7 +16890,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 5
+   "priority": 0
   }
  ]
 }
