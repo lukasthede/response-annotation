@@ -3795,7 +3795,7 @@
    "block": "stream_A2",
    "id": "it_a634f65a1b",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -3832,7 +3832,7 @@
    "block": "stream_A2",
    "id": "it_eeedcb3f94",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -3869,7 +3869,7 @@
    "block": "stream_A2",
    "id": "it_05e679eae6",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -3897,7 +3897,7 @@
    "block": "stream_A1",
    "id": "it_1572e7a273",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -3970,7 +3970,7 @@
    "block": "stream_A4",
    "id": "it_8c0f018a9a",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4007,7 +4007,7 @@
    "block": "stream_A1",
    "id": "it_ff4643f48d",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4044,7 +4044,7 @@
    "block": "stream_A2",
    "id": "it_9974410337",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4081,7 +4081,7 @@
    "block": "stream_A3",
    "id": "it_aa7774cd05",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4127,7 +4127,7 @@
    "block": "stream_A3",
    "id": "it_68b6c3a54a",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4155,7 +4155,7 @@
    "block": "stream_A3",
    "id": "it_f54c7b77a5",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4192,7 +4192,7 @@
    "block": "stream_A3",
    "id": "it_4c96513833",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4220,7 +4220,7 @@
    "block": "stream_A2",
    "id": "it_2f1471d81d",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4257,7 +4257,7 @@
    "block": "common",
    "id": "it_8aaf9016c0",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4285,7 +4285,7 @@
    "block": "stream_A2",
    "id": "it_c12c883e04",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4358,7 +4358,7 @@
    "block": "stream_A1",
    "id": "it_6a8bac3d93",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4431,7 +4431,7 @@
    "block": "stream_A4",
    "id": "it_31e6c6f8c3",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4504,7 +4504,7 @@
    "block": "stream_A3",
    "id": "it_21572b9fe8",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4577,7 +4577,7 @@
    "block": "stream_A1",
    "id": "it_8df48decb6",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4650,7 +4650,7 @@
    "block": "stream_A4",
    "id": "it_4972169e6c",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4687,7 +4687,7 @@
    "block": "common",
    "id": "it_31f57b7247",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4760,7 +4760,7 @@
    "block": "stream_A4",
    "id": "it_d149bfacca",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4833,7 +4833,7 @@
    "block": "stream_A3",
    "id": "it_029d073fa1",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4888,7 +4888,7 @@
    "block": "stream_A1",
    "id": "it_609ac8b8d5",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4925,7 +4925,7 @@
    "block": "stream_A4",
    "id": "it_743a7259ac",
    "strat": "s0",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -4971,7 +4971,7 @@
    "block": "stream_A1",
    "id": "it_2a7119bf87",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5017,7 +5017,7 @@
    "block": "stream_A3",
    "id": "it_6fdbdcda18",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5054,7 +5054,7 @@
    "block": "stream_A3",
    "id": "it_76d0ba76fa",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5082,7 +5082,7 @@
    "block": "common",
    "id": "it_6c2a2cd2d5",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5155,7 +5155,7 @@
    "block": "stream_A1",
    "id": "it_eb7720ad42",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5219,7 +5219,7 @@
    "block": "stream_A3",
    "id": "it_b81c87c571",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5256,7 +5256,7 @@
    "block": "stream_A1",
    "id": "it_dd4db49acb",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5293,7 +5293,7 @@
    "block": "stream_A4",
    "id": "it_4b50e868ed",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5339,7 +5339,7 @@
    "block": "stream_A1",
    "id": "it_26d77ca5ca",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5376,7 +5376,7 @@
    "block": "stream_A4",
    "id": "it_789b012918",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5413,7 +5413,7 @@
    "block": "stream_A1",
    "id": "it_4f0ebccf9a",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5441,7 +5441,7 @@
    "block": "stream_A2",
    "id": "it_aa27f6b097",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5478,7 +5478,7 @@
    "block": "stream_A4",
    "id": "it_0bacb6ad96",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5515,7 +5515,7 @@
    "block": "stream_A4",
    "id": "it_09e2e585e2",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5588,7 +5588,7 @@
    "block": "stream_A2",
    "id": "it_8538400c88",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5661,7 +5661,7 @@
    "block": "stream_A4",
    "id": "it_9843831ae2",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5734,7 +5734,7 @@
    "block": "stream_A3",
    "id": "it_dc7be04b07",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5798,7 +5798,7 @@
    "block": "stream_A3",
    "id": "it_e4b06f4c31",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5871,7 +5871,7 @@
    "block": "stream_A4",
    "id": "it_792450b1e6",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5908,7 +5908,7 @@
    "block": "stream_A2",
    "id": "it_df19f5d6a8",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -5981,7 +5981,7 @@
    "block": "stream_A2",
    "id": "it_85addd342b",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6054,7 +6054,7 @@
    "block": "stream_A2",
    "id": "it_2e4375bc51",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6109,7 +6109,7 @@
    "block": "stream_A1",
    "id": "it_ab0e5147c5",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6155,7 +6155,7 @@
    "block": "common",
    "id": "it_293da29f5f",
    "strat": "s1",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6201,7 +6201,7 @@
    "block": "stream_A1",
    "id": "it_80ccbe019e",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6238,7 +6238,7 @@
    "block": "stream_A2",
    "id": "it_3609a91c6b",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6275,7 +6275,7 @@
    "block": "stream_A1",
    "id": "it_18a337de35",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6303,7 +6303,7 @@
    "block": "stream_A3",
    "id": "it_084e0702ef",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6376,7 +6376,7 @@
    "block": "stream_A3",
    "id": "it_42b4dfb4b7",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6413,7 +6413,7 @@
    "block": "stream_A2",
    "id": "it_d0ed4ccd6a",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6450,7 +6450,7 @@
    "block": "stream_A4",
    "id": "it_a477621c17",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6487,7 +6487,7 @@
    "block": "stream_A2",
    "id": "it_9d0036de1c",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6533,7 +6533,7 @@
    "block": "stream_A2",
    "id": "it_527775a552",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6561,7 +6561,7 @@
    "block": "stream_A3",
    "id": "it_6334eb38f4",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6598,7 +6598,7 @@
    "block": "stream_A3",
    "id": "it_1be76a76fe",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6635,7 +6635,7 @@
    "block": "stream_A4",
    "id": "it_2db8ee8b6a",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6672,7 +6672,7 @@
    "block": "stream_A4",
    "id": "it_dc0e6baffb",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6709,7 +6709,7 @@
    "block": "stream_A1",
    "id": "it_dadc2f6992",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6782,7 +6782,7 @@
    "block": "stream_A2",
    "id": "it_4b5ed1788d",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6846,7 +6846,7 @@
    "block": "stream_A4",
    "id": "it_d5bc83a4d2",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6919,7 +6919,7 @@
    "block": "common",
    "id": "it_d3dbe000de",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -6992,7 +6992,7 @@
    "block": "stream_A3",
    "id": "it_8f7605dbc8",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7065,7 +7065,7 @@
    "block": "stream_A1",
    "id": "it_ff3fa73d7c",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7093,7 +7093,7 @@
    "block": "stream_A2",
    "id": "it_a2788daf34",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7166,7 +7166,7 @@
    "block": "stream_A1",
    "id": "it_fa0fa7c70e",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7239,7 +7239,7 @@
    "block": "stream_A4",
    "id": "it_a2cbac80aa",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7294,7 +7294,7 @@
    "block": "stream_A3",
    "id": "it_939c096a72",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7331,7 +7331,7 @@
    "block": "common",
    "id": "it_6d8dd63270",
    "strat": "s2",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7377,7 +7377,7 @@
    "block": "stream_A4",
    "id": "it_212b33f926",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7414,7 +7414,7 @@
    "block": "stream_A2",
    "id": "it_377556630d",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7451,7 +7451,7 @@
    "block": "stream_A3",
    "id": "it_1dca222ca3",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7479,7 +7479,7 @@
    "block": "stream_A2",
    "id": "it_cb22154a94",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7552,7 +7552,7 @@
    "block": "stream_A3",
    "id": "it_a4c5c49a8a",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7616,7 +7616,7 @@
    "block": "stream_A3",
    "id": "it_d067bf2976",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7653,7 +7653,7 @@
    "block": "stream_A1",
    "id": "it_35b8b878b9",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7699,7 +7699,7 @@
    "block": "common",
    "id": "it_608415149d",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7745,7 +7745,7 @@
    "block": "stream_A2",
    "id": "it_23934dab68",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7782,7 +7782,7 @@
    "block": "stream_A4",
    "id": "it_25a9367a02",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7819,7 +7819,7 @@
    "block": "stream_A4",
    "id": "it_3a6f317eb4",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7847,7 +7847,7 @@
    "block": "stream_A2",
    "id": "it_8fa63d8774",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7884,7 +7884,7 @@
    "block": "stream_A1",
    "id": "it_a3e6a89a7f",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7921,7 +7921,7 @@
    "block": "stream_A3",
    "id": "it_337fb2405f",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -7994,7 +7994,7 @@
    "block": "stream_A1",
    "id": "it_c166ed5cf2",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -8067,7 +8067,7 @@
    "block": "stream_A1",
    "id": "it_d9a31020b3",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -8140,7 +8140,7 @@
    "block": "stream_A4",
    "id": "it_c2032a13a8",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -8213,7 +8213,7 @@
    "block": "common",
    "id": "it_d0246c07bd",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -8286,7 +8286,7 @@
    "block": "stream_A4",
    "id": "it_1f7ad01162",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -8323,7 +8323,7 @@
    "block": "stream_A4",
    "id": "it_e5ee8825b0",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -8396,7 +8396,7 @@
    "block": "stream_A1",
    "id": "it_48c2306e46",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -8469,7 +8469,7 @@
    "block": "stream_A2",
    "id": "it_084e20ecdc",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -8524,7 +8524,7 @@
    "block": "stream_A1",
    "id": "it_9b85803002",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -8570,7 +8570,7 @@
    "block": "stream_A3",
    "id": "it_d6b00065ee",
    "strat": "s3",
-   "priority": 1
+   "priority": 2
   },
   {
    "task": "task1",
@@ -8614,7 +8614,7 @@
    "block": "stream_A2",
    "id": "it_33705fe703",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -8658,7 +8658,7 @@
    "block": "stream_A4",
    "id": "it_10d6e5a329",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -8702,7 +8702,7 @@
    "block": "common",
    "id": "it_ef88609d8e",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -8746,7 +8746,7 @@
    "block": "stream_A2",
    "id": "it_e584654fd7",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -8790,7 +8790,7 @@
    "block": "stream_A3",
    "id": "it_224dccbf23",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -8834,7 +8834,7 @@
    "block": "stream_A1",
    "id": "it_ca5cd3758d",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -8878,7 +8878,7 @@
    "block": "stream_A4",
    "id": "it_9c7c24d32b",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -8922,7 +8922,7 @@
    "block": "stream_A4",
    "id": "it_60cb6f0abc",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -8966,7 +8966,7 @@
    "block": "stream_A1",
    "id": "it_1bf24c9606",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9010,7 +9010,7 @@
    "block": "stream_A3",
    "id": "it_329dcf272f",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9054,7 +9054,7 @@
    "block": "stream_A1",
    "id": "it_dd7b37967d",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9098,7 +9098,7 @@
    "block": "stream_A2",
    "id": "it_67e3aaf26d",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9142,7 +9142,7 @@
    "block": "stream_A2",
    "id": "it_e429d8e287",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9186,7 +9186,7 @@
    "block": "stream_A3",
    "id": "it_43b319efc7",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9230,7 +9230,7 @@
    "block": "stream_A4",
    "id": "it_cbaf947faa",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9274,7 +9274,7 @@
    "block": "stream_A4",
    "id": "it_13e95c693e",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9318,7 +9318,7 @@
    "block": "stream_A1",
    "id": "it_c86d74d1cf",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9362,7 +9362,7 @@
    "block": "stream_A2",
    "id": "it_e10832711b",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9406,7 +9406,7 @@
    "block": "stream_A1",
    "id": "it_2e804d12f2",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9450,7 +9450,7 @@
    "block": "stream_A3",
    "id": "it_ad4a84f3bb",
    "strat": "s0",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9494,7 +9494,7 @@
    "block": "common",
    "id": "it_9499acb500",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9538,7 +9538,7 @@
    "block": "stream_A2",
    "id": "it_aaf2929300",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9582,7 +9582,7 @@
    "block": "stream_A4",
    "id": "it_b4ca9c8de9",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9626,7 +9626,7 @@
    "block": "stream_A3",
    "id": "it_8d7ab4a94c",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9670,7 +9670,7 @@
    "block": "stream_A4",
    "id": "it_35b95d1741",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9714,7 +9714,7 @@
    "block": "stream_A1",
    "id": "it_cebaf8a4fe",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9758,7 +9758,7 @@
    "block": "stream_A4",
    "id": "it_f40091cde0",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9802,7 +9802,7 @@
    "block": "stream_A3",
    "id": "it_0472c855b5",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9846,7 +9846,7 @@
    "block": "stream_A2",
    "id": "it_44849e4bb2",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9890,7 +9890,7 @@
    "block": "common",
    "id": "it_69f02c7152",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9934,7 +9934,7 @@
    "block": "stream_A4",
    "id": "it_44b29a746d",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -9978,7 +9978,7 @@
    "block": "stream_A1",
    "id": "it_525a897260",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10022,7 +10022,7 @@
    "block": "stream_A3",
    "id": "it_5ba5ed390f",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10066,7 +10066,7 @@
    "block": "stream_A2",
    "id": "it_102c4273c7",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10110,7 +10110,7 @@
    "block": "stream_A3",
    "id": "it_c97cebff11",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10154,7 +10154,7 @@
    "block": "stream_A3",
    "id": "it_c2e40c12a2",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10198,7 +10198,7 @@
    "block": "stream_A1",
    "id": "it_86ba1e37d2",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10242,7 +10242,7 @@
    "block": "stream_A2",
    "id": "it_3a81604fb7",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10286,7 +10286,7 @@
    "block": "stream_A1",
    "id": "it_a851742c29",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10330,7 +10330,7 @@
    "block": "stream_A4",
    "id": "it_e72333de7f",
    "strat": "s1",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10374,7 +10374,7 @@
    "block": "stream_A3",
    "id": "it_0c322c1705",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10418,7 +10418,7 @@
    "block": "stream_A1",
    "id": "it_07b66a5811",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10462,7 +10462,7 @@
    "block": "stream_A2",
    "id": "it_7a51797da6",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10506,7 +10506,7 @@
    "block": "stream_A3",
    "id": "it_6da13dcd38",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10550,7 +10550,7 @@
    "block": "stream_A1",
    "id": "it_936542634b",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10594,7 +10594,7 @@
    "block": "stream_A2",
    "id": "it_9b40fea1bb",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10638,7 +10638,7 @@
    "block": "stream_A4",
    "id": "it_94f97340c1",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10682,7 +10682,7 @@
    "block": "stream_A2",
    "id": "it_e17bd475ac",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10726,7 +10726,7 @@
    "block": "stream_A4",
    "id": "it_526f139439",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10770,7 +10770,7 @@
    "block": "stream_A4",
    "id": "it_1ce581009f",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10814,7 +10814,7 @@
    "block": "common",
    "id": "it_d396a97af3",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10858,7 +10858,7 @@
    "block": "stream_A1",
    "id": "it_cf05555019",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10902,7 +10902,7 @@
    "block": "common",
    "id": "it_f2e69f9a52",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10946,7 +10946,7 @@
    "block": "stream_A2",
    "id": "it_b8bd18664b",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -10990,7 +10990,7 @@
    "block": "stream_A3",
    "id": "it_9f9bba52c0",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11034,7 +11034,7 @@
    "block": "stream_A1",
    "id": "it_b5f956bed1",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11078,7 +11078,7 @@
    "block": "stream_A2",
    "id": "it_0ca3ecfc1c",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11122,7 +11122,7 @@
    "block": "stream_A3",
    "id": "it_7eb0a2ba2f",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11166,7 +11166,7 @@
    "block": "stream_A3",
    "id": "it_cb4ee66828",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11210,7 +11210,7 @@
    "block": "stream_A4",
    "id": "it_b5e4106561",
    "strat": "s2",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11254,7 +11254,7 @@
    "block": "stream_A3",
    "id": "it_eb4bf82401",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11298,7 +11298,7 @@
    "block": "stream_A1",
    "id": "it_7631f9884c",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11342,7 +11342,7 @@
    "block": "stream_A4",
    "id": "it_69b1ba12d6",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11386,7 +11386,7 @@
    "block": "stream_A2",
    "id": "it_f91dd43541",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11430,7 +11430,7 @@
    "block": "stream_A2",
    "id": "it_0c5a3baeb3",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11474,7 +11474,7 @@
    "block": "stream_A2",
    "id": "it_b22bac3690",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11518,7 +11518,7 @@
    "block": "stream_A3",
    "id": "it_9cea3248aa",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11562,7 +11562,7 @@
    "block": "stream_A3",
    "id": "it_e04e934247",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11606,7 +11606,7 @@
    "block": "stream_A1",
    "id": "it_9639d5201d",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11650,7 +11650,7 @@
    "block": "stream_A4",
    "id": "it_8cfb5ce07f",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11694,7 +11694,7 @@
    "block": "stream_A2",
    "id": "it_7fb0f79069",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11738,7 +11738,7 @@
    "block": "stream_A4",
    "id": "it_ddde94051b",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11782,7 +11782,7 @@
    "block": "stream_A1",
    "id": "it_97a9a9e2be",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11826,7 +11826,7 @@
    "block": "stream_A3",
    "id": "it_ff116d4436",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11870,7 +11870,7 @@
    "block": "stream_A4",
    "id": "it_09e4a8dacc",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11914,7 +11914,7 @@
    "block": "stream_A1",
    "id": "it_35090ecd7c",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -11958,7 +11958,7 @@
    "block": "stream_A2",
    "id": "it_5cbb172495",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -12002,7 +12002,7 @@
    "block": "stream_A4",
    "id": "it_36aa0f65d5",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -12046,7 +12046,7 @@
    "block": "stream_A1",
    "id": "it_25c2e3c678",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task1",
@@ -12090,7 +12090,7 @@
    "block": "common",
    "id": "it_1dad194c9e",
    "strat": "s3",
-   "priority": 2
+   "priority": 1
   },
   {
    "task": "task2",
@@ -15506,7 +15506,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_efa2298ffa",
@@ -15578,7 +15578,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_4480418534",
@@ -15650,7 +15650,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_725c079115",
@@ -15722,7 +15722,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_84bcc03f30",
@@ -15794,7 +15794,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_dd408473f8",
@@ -15866,7 +15866,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_1a194c6d5a",
@@ -15938,7 +15938,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_8f0d5dd15a",
@@ -16010,7 +16010,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_6cbc344d9c",
@@ -16082,7 +16082,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_165ce9a28d",
@@ -16154,7 +16154,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_975cae79c3",
@@ -16230,7 +16230,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_cc3d97c1cd",
@@ -16306,7 +16306,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_b0fd12bcd9",
@@ -16378,7 +16378,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_3c74bde4b4",
@@ -16454,7 +16454,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_b6d5d92f88",
@@ -16530,7 +16530,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_c5d7f8117c",
@@ -16602,7 +16602,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_fee6dbd42f",
@@ -16674,7 +16674,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_1f85c68e91",
@@ -16746,7 +16746,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_f8aa8e0e8a",
@@ -16818,7 +16818,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   },
   {
    "id": "it_c1cbc2c0b7",
@@ -16890,7 +16890,7 @@
    ],
    "block": "common",
    "strat": "s0",
-   "priority": 0
+   "priority": 5
   }
  ]
 }
